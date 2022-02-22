@@ -17,4 +17,4 @@ temperatures can be assessed via MAGICC. MAGICC is run from the server: https://
 
 ### 4. temperature_plot
 This takes the outcomes of the MAGICC runs (all accessible at https://live.magicc.org/scenarios)
-#and plots emissions and temperature outcomes
+and plots emissions and temperature outcomes
