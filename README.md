@@ -9,7 +9,7 @@ There are four main scripts in the analysis:
 This calculates the strength of the Paris ratcheting mechanism and creates stylised future GHG trajectories on this basis
 
 ### 2. silicone_disaggregation
-This disaggregates these stylised GHG trajectories into underlying constituent gases, using Silicone (see https://github.com/GranthamImperial/silicone)
+This disaggregates these stylised GHG trajectories into underlying constituent gases, using Silicone (see https://github.com/GranthamImperial/silicone). The Silicone scripts are not developed by me, and are detailed in  Lamboll et al., 2020 (https://gmd.copernicus.org/articles/13/5259/2020/). Relevant inputs and outputs are added by me in this repository.
 
 ### 3. magicc_prep
 This takes the disaggregated GHG trajectory from Silicone and merges it with an SSP1-26 emissions template, so that 
